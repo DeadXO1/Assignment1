@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Assignment1
-=======
 # Sydney Events Scraper Application
 
 A full-stack web application that automatically scrapes events from public event websites in Sydney, Australia, and displays them in a modern, responsive UI. Users can browse events, search and filter, and get tickets by providing their email address.
@@ -381,4 +378,4 @@ This project is for educational purposes. Ensure compliance with website Terms o
 - Database file (`events.db`) is created automatically on first run
 - All scrapers handle missing fields gracefully (e.g., no image = placeholder)
 
->>>>>>> 39c3691 (Initial commit)
+
